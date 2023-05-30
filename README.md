@@ -1,2 +1,3 @@
 # Dealership
-Projeto de uma Concessionária de motos. Nela vamos realizar o CRUD dos Clientes e das Motocicletas
+Projeto da AP2 de uma Concessionária de motos. 
+Nela vamos realizar o CRUD de Clientes e das Motocicletas.
